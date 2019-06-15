@@ -22,7 +22,7 @@ class RunTestCommand extends Command
 
     protected function configure()
     {
-        $this->setName("concerto:test:run")->setDescription("Run test");
+        $this->setName("concerto:test:run")->setDescription("Run tool");
         $this->addArgument("name", InputArgument::REQUIRED, "Test name");
         $this->addArgument("params", InputArgument::OPTIONAL, "{}");
     }

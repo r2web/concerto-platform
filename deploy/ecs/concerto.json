@@ -44,7 +44,7 @@
       "memoryReservation": null,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "campsych/concerto-platform",
+      "image": "r2web/concerto-platform",
       "startTimeout": null,
       "dependsOn": null,
       "disableNetworking": null,

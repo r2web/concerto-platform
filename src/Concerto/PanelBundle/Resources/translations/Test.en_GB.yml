@@ -32,7 +32,7 @@ form:
     groups: Groups
     groups.tooltip: Comma separated list of groups that object is assigned to
   button:
-      run: Run test
+      run: Run tool
       debug: Debug test
     
 list: 
