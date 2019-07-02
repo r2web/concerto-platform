@@ -9,6 +9,6 @@ parameters:
         internal:
             r_exec_path: R
             r_lib_path: null
-            editable_starter_content: false
+            editable_starter_content: true
             session_files_expiration: 7 #days
             session_count_idle_limit: 1800 #secs
